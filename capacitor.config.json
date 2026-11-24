@@ -1,0 +1,9 @@
+{
+  "appId": "com.maw3idi.medical",
+  "appName": "موعدي الطبي",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}

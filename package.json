@@ -1,0 +1,12 @@
+{
+  "name": "maw3idi-medical-app",
+  "version": "1.0.0",
+  "description": "موعدي الطبي - احجز موعدك بسهولة وأمان",
+  "dependencies": {
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/android": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
